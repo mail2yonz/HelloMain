@@ -18,6 +18,6 @@ public class HelloMainApp {
     public static String Hello(String name){
 
 
-        return "Hello " + name;
+        return "Hello " + name +"!";
     }
 }
